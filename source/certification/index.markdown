@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "certification"
+title: "Certificação"
 date: 2014-10-02 16:05
 comments: true
 sharing: true
