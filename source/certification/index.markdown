@@ -9,12 +9,12 @@ footer: true
 
 ### Certificação Puppet Professional
 
-   O programa de certifcação Puppet foi lançado em setembro de 2012 com o intuito de reconhecer profissionais com proeficiencia na administração e desenvolvimento de estruturas usando Puppet.
+   O programa de certifcação Puppet foi lançado em setembro de 2012 com o intuito de reconhecer profissionais com proeficiiência na administração e desenvolvimento de infraestruturas usando Puppet.
    O programa se concentrava em duas áreas, mas hoje o foco é total na certificação Puppet Professional: 
 
 - Puppet 202 – System Administration Using Puppet (este exame é uma atualização do exame Puppet 201 aplicado em 2013) 
 
-   A "menina dos olhos" aqui para nós é a certificação 202 para SysAdmins.
+   A "menina dos olhos" aqui para nós então é a certificação 202 para SysAdmins.
 
    O exame é aplicado pelos centros autorizados da Person VUE (como grande parte dos outros exames) e o valor cobrado para este é de U$200,00, o exame tem o seguinte formato:
 
