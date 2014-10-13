@@ -9,18 +9,14 @@ footer: true
 
 ### Certificação Puppet Professional
 
-   O programa de ceritifcação Puppet foi lançado em setembro de 2012 com o intuito de reconhecer profissionais com proeficiencia na administração e desenvolvimento de estruturas usando Puppet.
-   O programa se concentrava em duas áreas, com dois exames distintos (Puppet Professional e Puppet Developer): 
+   O programa de certifcação Puppet foi lançado em setembro de 2012 com o intuito de reconhecer profissionais com proeficiencia na administração e desenvolvimento de estruturas usando Puppet.
+   O programa se concentrava em duas áreas, mas hoje o foco é total na certificação Puppet Professional: 
 
 - Puppet 202 – System Administration Using Puppet (este exame é uma atualização do exame Puppet 201 aplicado em 2013) 
-- Puppet 301 – Developing for Puppet Using Ruby
 
-   Porque concentrava? Não foi erro não. A puppet "aposentou" o exame 301 que basicamente era direcionado a profissionais que podiam extender os "poderes" do Puppet usando Ruby. Mas a partir de 30 de setembro deste ano ele não foi mais aplicado, sendo então retirado do catálogo de exames da PuppetLabs e sendo mantido somente o exame 202.
+   A "menina dos olhos" aqui para nós é a certificação 202 para SysAdmins.
 
-
-   Então a "menina dos olhos" aqui para nós é a certificação 202 para Sysadmins como eu e provavelmente você.
-
-   O exame é aplicado pelos centros autorizados da Person VUE (como grande parte dos outros exames) e o valor cobrado para este é de U$200,00, até a data deste post o exame é aplicado com as características listadas abaixo:
+   O exame é aplicado pelos centros autorizados da Person VUE (como grande parte dos outros exames) e o valor cobrado para este é de U$200,00, o exame tem o seguinte formato:
 
 - Formato:     60 questões de múltipla escolha
 - Tempo:       90 minutos
@@ -29,7 +25,7 @@ footer: true
 
 
    Sobre a descrição de um canditado qualificado a PuppetLabs é bem abrangente. O candidato deve entender o conceito de automação com Puppet, tem que ser capaz de desenvolver módulos básico, tem que ser capaz administrar infraestrutura usando Puppet. Eles ainda citam, que o contato diário com o Puppet, a leitura da documentação do PuppetLabs e estar por dentro das boas práticas são fatores importantes para a cerficação.
-   Além disso, é possível o candidato se matricular em treinamentos como o Puppet Fundamentals (treinamentos reconhecidos pela PuppetLabs) para preparação para a cerificação. No Brasil a Instruct (http://instruct.com.br/) é a única autorizada a ministrar estes treinamentos.
+   Além disso, é possível o candidato se matricular em treinamentos como o Puppet Fundamentals (treinamentos oficiais da PuppetLabs) para preparação para a certificação. No Brasil a Instruct (http://instruct.com.br/) é a única autorizada a ministrar estes treinamentos.
 
 
 Objetivos do Exame:
