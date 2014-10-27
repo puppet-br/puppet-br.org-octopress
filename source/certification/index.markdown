@@ -10,14 +10,14 @@ footer: true
 
 ### Certificação Puppet Professional
 
-O programa de certifcação Puppet foi lançado em setembro de 2012 com o intuito de reconhecer profissionais com proeficiência na administração e desenvolvimento de infraestruturas usando Puppet.
+O programa de certificação Puppet foi lançado em setembro de 2012 com o intuito de reconhecer profissionais com proeficiência na administração e desenvolvimento de infraestruturas usando Puppet.
 O programa se concentrava em duas áreas, mas hoje o foco é total na certificação Puppet Professional: 
 
 - Puppet 202 – System Administration Using Puppet (este exame é uma atualização do exame Puppet 201 aplicado em 2013) 
 
 A "menina dos olhos" aqui para nós então é a certificação 202 para SysAdmins.
 
-O exame é aplicado pelos centros autorizados da Person VUE (como grande parte dos outros exames) e o valor cobrado para este é de U$200,00, o exame tem o seguinte formato:
+O exame é aplicado pelos centros autorizados da Pearson VUE (como grande parte dos outros exames) e o valor cobrado para este é de U$200,00, o exame tem o seguinte formato:
 
 - Formato:     60 questões de múltipla escolha
 - Tempo:       90 minutos
@@ -25,7 +25,7 @@ O exame é aplicado pelos centros autorizados da Person VUE (como grande parte d
 - Abrangência: Puppet Opensource (3.3.1 e posteriores) e Puppet Enterprise (3.1 e posteriores) 
 
 
-Sobre a descrição de um canditado qualificado a PuppetLabs é bem abrangente. O candidato deve entender o conceito de automação com Puppet, tem que ser capaz de desenvolver módulos básico, tem que ser capaz administrar infraestrutura usando Puppet. Eles ainda citam, que o contato diário com o Puppet, a leitura da documentação do PuppetLabs e estar por dentro das boas práticas são fatores importantes para a cerficação.
+Sobre a descrição de um candidato qualificado a PuppetLabs é bem abrangente. O candidato deve entender o conceito de automação com Puppet, tem que ser capaz de desenvolver módulos básicos, tem que ser capaz administrar infraestrutura usando Puppet. Eles ainda citam que o contato diário com o Puppet, a leitura da documentação do PuppetLabs e estar por dentro das boas práticas são fatores importantes para a certificação.
 Além disso, é possível o candidato se matricular em treinamentos como o Puppet Fundamentals (treinamentos oficiais da PuppetLabs) para preparação para a certificação. No Brasil a Instruct (http://instruct.com.br/) é a única autorizada a ministrar estes treinamentos.
 
 
@@ -36,21 +36,18 @@ Vamos agora esmiuçar um pouco os objetivos do exame.
 ### 1 - Instalação e Configuração
 
 #### 1.1 - Descrever a instalação e configuração do Puppet Enterprise, Master e Agent.
-Ok. Se a sua pergunta é posso passar no exame sem saber nada de Puppet Enterprise? A minha resposta é sim, mas suas chances são reduzidas consideravelmente. Apesar do apelo opensource da ferramenta, e grande apoio, o PE continua sendo o produto PuppetLabs e torna-se necessária atenção a ele. Tudo bem se não o temos rodando em grande estruturas, mas o básico sobre instalação e configuração deve ser conhecido. 
-Se está achando complicado, a Puppet Labs te ajuda com isso, ela disponibiliza uma VM para iniciantes, esta VM trás um quest interativo onde pode-se aprender sobre o funcionamento do Puppet e o produto desta VM é uma versão do PE instalado com algumas classes básicas rodando, mesmo o PE sendo instalado via módulo do Forge é uma boa oportunidade para um primeiro contato. Além disso a PuppetLabs disponibiliza um Free Trial do PE para no máximo 10 nós. Para testes é excelente, todo o processo de instalação e configuração pode ser seguido e após realizar este processo algumas vezes você se sentirá apto para brincar com o PE o quanto quiser.
+Ok. Se a sua pergunta é posso passar no exame sem saber nada de Puppet Enterprise? A minha resposta é sim, mas suas chances são reduzidas consideravelmente. Apesar do apelo opensource da ferramenta, e grande apoio, o PE continua sendo o produto PuppetLabs e torna-se necessária atenção a ele. Tudo bem se não o temos rodando em grandes estruturas, mas o básico sobre instalação e configuração deve ser conhecido. 
+Se você está achando complicado, a Puppet Labs te ajuda com isso, ela disponibiliza uma VM para iniciantes, esta VM trás um quest interativo onde se pode aprender sobre o funcionamento do Puppet e o produto desta VM é uma versão do PE instalado com algumas classes básicas rodando, mesmo o PE sendo instalado via módulo do Forge é uma boa oportunidade para um primeiro contato. Além disso, a Puppet Labs disponibiliza um Free Trial do PE para no máximo 10 nós. Para testes é excelente, todo o processo de instalação e configuração pode ser seguido e após realizar este processo algumas vezes você se sentirá apto para brincar com o PE o quanto quiser.
 
 - Baixar a VM Learn - (https://puppetlabs.com/download-learning-vm)
 - Free Trial        - (https://puppetlabs.com/download-puppet-enterprise)
 
 Além disso, sugiro as seguintes leituras, importantes para entendimento do processo:
    
-- Requesitos do Sistema (pré instalação): https://docs.puppetlabs.com/pe/latest/install_system_requirements.html
+- Requisitos do Sistema (pré instalação): https://docs.puppetlabs.com/pe/latest/install_system_requirements.html
 - Instalação do PE (master): https://docs.puppetlabs.com/pe/latest/install_basic.html
 - Instalação dos PE Agents: https://docs.puppetlabs.com/pe/latest/install_agents.html
 - Guia Rápido do PE: https://docs.puppetlabs.com/pe/latest/quick_start.html
-
-
-
 
 ### 2 - Componentes do Puppet 
 #### 2.1 - Identificar ambientes com Puppet.
@@ -66,7 +63,7 @@ Além disso, sugiro as seguintes leituras, importantes para entendimento do proc
 #### 4.1 - Descrever o uso de funções.
 #### 4.2 - Descrever o conceito de idempotência.
 #### 4.3 - Descrever variáveis e escopos.
-#### 4.4 - Demonstrar conhecimento em lógica sequêncial.
+#### 4.4 - Demonstrar conhecimento em lógica sequencial.
 #### 4.5 - Identificar o propósito de Herança (inheritance).
 #### 4.6 - Descrever o funcionamento do relacionamento entre os resources.
 
@@ -77,7 +74,7 @@ Além disso, sugiro as seguintes leituras, importantes para entendimento do proc
 ### 6 - Classificação
 #### 6.1 - Identificar o que classifica os nós.
 
-### 7 - Biblioteces de Dados do Puppet
+### 7 - Bibliotecas de Dados do Puppet
 #### 7.1 - Identificar a funcionalidade do Facter.
 #### 7.2 - Descrever os conceitos dos reports (relatórios).
 #### 7.3 - Identificar a função do PuppetDB.
